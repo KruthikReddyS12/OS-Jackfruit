@@ -132,7 +132,8 @@ Shows captured output of a container stored in log files using bounded-buffer lo
 
 ---
 
-### <img width="1864" height="677" alt="3" src="https://github.com/user-attachments/assets/5ac5f49d-3709-4d1f-a33a-c5d98b4ab43b" />
+### <img width="1864" height="677" alt="3" <img width="1024" height="370" alt="image" src="https://github.com/user-attachments/assets/1dbecb9d-781d-4608-bf17-407bf055f5bf" />
+ />
 
 
 Demonstrates communication between CLI and supervisor using IPC (FIFO/socket).
