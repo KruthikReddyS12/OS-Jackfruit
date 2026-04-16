@@ -140,7 +140,8 @@ Demonstrates communication between CLI and supervisor using IPC (FIFO/socket).
 
 ---
 
-### <img width="1646" height="506" alt="5 and 6" src="https://github.com/user-attachments/assets/8b5dbe26-66ff-4a4e-b20b-8bdfdbdf08b6" />
+### <img width="1646" height="506" alt="5 and 6" <img width="1024" height="321" alt="image" src="https://github.com/user-attachments/assets/8d2629f1-00e6-4a29-875c-5755ef7ffc3e" />
+ />
 
 
 Shows both soft-limit warning and hard-limit enforcement using kernel logs:
