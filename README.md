@@ -157,7 +157,8 @@ Comparison between containers with different nice values showing CPU allocation 
 
 ---
 
-### <img width="2824" height="303" alt="8" src="https://github.com/user-attachments/assets/d78fd9cf-ff87-4eb4-8d0f-9e003244540c" />
+### <img width="2824" height="303" alt="8" <img width="1024" height="113" alt="image" src="https://github.com/user-attachments/assets/fd6c6f48-1ffe-4c24-8e52-50e4024e45d4" />
+ />
 
 
 Shows no zombie processes related to containers after execution.
