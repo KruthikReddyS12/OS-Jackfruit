@@ -4,11 +4,11 @@
 
 ## 1. Team Information
 
-* Team Member 1: Ibrahim khaleel
-* SRN: PES2UG24CS809
+* Team Member 1: Khush Bharadwaj
+* SRN: PES2UG24CS226
 
-* Team Member 2: Deeraj S
-* SRN: PES2UG24CS806
+* Team Member 2:Kruthik Reddy S
+* SRN: PES2UG24CS241
 
 ---
 
