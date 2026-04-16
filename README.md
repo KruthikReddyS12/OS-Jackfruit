@@ -108,7 +108,8 @@ sudo rmmod monitor
 
 ## 3. Demo with Screenshots
 
-### <img width="1855" height="670" alt="1" src="https://github.com/user-attachments/assets/b082886e-5feb-423f-858f-a036b7bc3108" />
+### <img width="1855" height="670" alt="1" src="<img width="1024" height="404" alt="image" src="https://github.com/user-attachments/assets/b81ddd6f-f7d5-4907-a43a-9456b64c7f56" />
+" />
 
 
 Shows multiple containers running under a single supervisor process.
