@@ -152,7 +152,8 @@ sudo dmesg | grep container_monitor
 
 ---
 
-### <img width="1256" height="563" alt="7" src="https://github.com/user-attachments/assets/e28b9974-3196-4dc4-a447-7de5f5ed2560" />
+### <img width="1256" height="563" alt="7" <img width="1024" height="461" alt="image" src="https://github.com/user-attachments/assets/b4b3c26c-cc05-484d-b3df-24b909dca480" />
+ />
 
 
 Comparison between containers with different nice values showing CPU allocation differences.
