@@ -4,10 +4,7 @@
 
 ## 1. Team Information
 
-* Team Member 1: Khush Bharadwaj
-* SRN: PES2UG24CS226
-
-* Team Member 2: Kruthik Reddy S
+* Team Member 1: Kruthik Reddy S
 * SRN: PES2UG24CS241
 
 ---
