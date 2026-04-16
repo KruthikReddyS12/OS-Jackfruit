@@ -116,7 +116,8 @@ Shows multiple containers running under a single supervisor process.
 
 ---
 
-### <img width="1860" height="670" alt="2" src="https://github.com/user-attachments/assets/7fefe450-dd48-4a83-ab9f-94d76ad2e793" />
+### <img width="1860" height="670" alt="2" <img width="1024" height="379" alt="image" src="https://github.com/user-attachments/assets/269b2036-d5a9-4a06-9bef-e46e8980fd61" />
+ />
 
 
 Displays container ID, PID, and state using the `ps` command.
