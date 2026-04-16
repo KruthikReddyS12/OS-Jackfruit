@@ -124,7 +124,8 @@ Displays container ID, PID, and state using the `ps` command.
 
 ---
 
-### <img width="858" height="292" alt="4" src="https://github.com/user-attachments/assets/0d2a6048-dd26-4669-a7c3-e2d409e7ed80" />
+### <img width="858" height="292" alt="4" <img width="1024" height="356" alt="image" src="https://github.com/user-attachments/assets/14fab928-0469-4566-8eee-57b104301c91" />
+ />
 
 
 Shows captured output of a container stored in log files using bounded-buffer logging.
